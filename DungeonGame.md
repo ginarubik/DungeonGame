@@ -7,7 +7,6 @@ what's it's eating and what does it do
 
 3.How many monsters in the dungeon and what type are they?
 
-
 1. Monsters:
 
 Beholder
