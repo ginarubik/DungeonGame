@@ -221,21 +221,11 @@ Orc
 
 Skeleton
 
-Important rules:
-
-The first monster in the list is always the one fighting the hero.
-
-When a monster dies, it is removed from the list.
-
-The number of monsters in the dungeon equals the size of the monster list.
+random 1-10
 
 4. Additional Observations
 
-Some small issues were identified in the code:
-
-Bard shortcut bug – the menu says Bd, but the code checks "db".
-
-Typos in some printed messages (e.g., "xelofon").
+Typos in some printed messages ("xelofon").
 
 heroes.get(0) and monsters.get(0) could cause IndexOutOfBoundsException if lists are empty.
 
